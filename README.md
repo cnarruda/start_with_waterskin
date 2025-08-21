@@ -1,2 +1,2 @@
-# start_with_waterskin
+# Start With Waterskin
 A very simple mod for the game Soulash 2
