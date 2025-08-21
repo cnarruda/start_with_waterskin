@@ -1,0 +1,11 @@
+{
+	"author": "cnarruda",
+	"description": "Every character now starts with seven waterskins, so your primary objetive is having fun instead of dying of thirst.",
+	"game_required": "0.9.8",
+	"icon": "S.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Start With Waterskin",
+	"version": "0.1.0"
+}
